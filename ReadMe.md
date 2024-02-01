@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Front-end|mobile,<br>em busca de um estágio.
+Estudante de Engenharia de Sofware,<br>em busca de um estágio.
 
 
 ## 🌐 Socials:
