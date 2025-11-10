@@ -1,5 +1,3 @@
-<h1 align="center">👋 Hello, I'm Igor</h1>
-
 ###
 
 <p align="center">💻 Estudante de Engenharia de Software, com foco em desenvolvimento backend e interesse em soluções eficientes e bem estruturadas.<br>Atualmente em busca da minha primeira oportunidade profissional na área de tecnologia.</p>
